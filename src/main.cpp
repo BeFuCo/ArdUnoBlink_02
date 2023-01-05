@@ -16,10 +16,10 @@ void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(BLINKLED, LOW);
   // Serial.println("The blinkin LED is off");
-  delay(2500);
+  delay(1000);
   digitalWrite(BLINKLED, HIGH);
   // Serial.println("The blinkin LED is on");
-  delay(1000);
+  delay(2000);
   /* Just checking an own lib 'termout.cpp'
   serialDumpTime();
   */
