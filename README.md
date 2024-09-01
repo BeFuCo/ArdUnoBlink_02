@@ -13,4 +13,4 @@ If you have any feedback please reach out to me at bernd.furnier@fu-net.de
 bernd.furnier@fu-net.de
 
 ## License
-[MIT License](LICENSE)
+[MIT License](LICENSE.md)
